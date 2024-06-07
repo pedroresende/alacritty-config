@@ -1,0 +1,12 @@
+import = [
+  "/Users/pedroresende/.volta/tools/image/packages/alacritty-themes/lib/node_modules/alacritty-themes/themes/Dracula.toml"
+]
+
+[shell]
+program = "/bin/zsh"
+args = ["-l", "-c", "zellij attach --index 0 --create"]
+
+
+[font.normal]
+family = "Hack Nerd Font Mono"
+style = "Regular"
