@@ -1,7 +1,10 @@
-[shell]
-program = "/bin/zsh"
-args = [ "-l", "-c", "zellij attach --index 0 --create" ]
-
 [font]
-normal = { family = "Hack Nerd Font Mono", style = "Regular"}
 size=13.0
+normal = { family = "FiraCode Nerd Font", style = "Regular" }
+bold = { family = "FiraCode Nerd Font", style = "Bold" }
+italic = { family = "FiraCode Nerd Font", style = "Italic" }
+
+[window]
+blur=true
+opacity=0.98
+decorations="None"
