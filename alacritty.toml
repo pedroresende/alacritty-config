@@ -1,10 +1,10 @@
 [font]
-size=11.0
+size = 11.0
 normal = { family = "FiraCode Nerd Font", style = "Regular" }
 bold = { family = "FiraCode Nerd Font", style = "Bold" }
 italic = { family = "FiraCode Nerd Font", style = "Italic" }
 
 [window]
-blur=true
-opacity=0.98
-decorations="None"
+blur = true
+opacity = 0.98
+decorations = "buttonless"
